@@ -1,0 +1,5 @@
+.DS_Store
+manifest.yml
+composer.phar
+vendor
+sendgrid.env
